@@ -1,0 +1,14 @@
+C:\Users\keerthiv\source\repos\MongoTest\MongoTest\bin\Debug\MongoTest.exe.config
+C:\Users\keerthiv\source\repos\MongoTest\MongoTest\bin\Debug\MongoTest.exe
+C:\Users\keerthiv\source\repos\MongoTest\MongoTest\bin\Debug\MongoTest.pdb
+C:\Users\keerthiv\source\repos\MongoTest\MongoTest\bin\Debug\MongoDB.Bson.dll
+C:\Users\keerthiv\source\repos\MongoTest\MongoTest\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\keerthiv\source\repos\MongoTest\MongoTest\bin\Debug\MongoDB.Driver.dll
+C:\Users\keerthiv\source\repos\MongoTest\MongoTest\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\keerthiv\source\repos\MongoTest\MongoTest\bin\Debug\MongoDB.Bson.xml
+C:\Users\keerthiv\source\repos\MongoTest\MongoTest\bin\Debug\MongoDB.Driver.xml
+C:\Users\keerthiv\source\repos\MongoTest\MongoTest\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\keerthiv\source\repos\MongoTest\MongoTest\obj\Debug\MongoTest.csprojResolveAssemblyReference.cache
+C:\Users\keerthiv\source\repos\MongoTest\MongoTest\obj\Debug\MongoTest.csproj.CoreCompileInputs.cache
+C:\Users\keerthiv\source\repos\MongoTest\MongoTest\obj\Debug\MongoTest.exe
+C:\Users\keerthiv\source\repos\MongoTest\MongoTest\obj\Debug\MongoTest.pdb
